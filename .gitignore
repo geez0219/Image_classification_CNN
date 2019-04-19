@@ -1,0 +1,6 @@
+__pycache__
+.idea
+dataset.pkl
+tiny-imagenet-200
+*.h5
+record
