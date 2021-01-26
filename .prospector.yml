@@ -2,3 +2,5 @@ pep257:
   run: true
   disable:
     - D205
+    - D200
+    - D212
