@@ -1,0 +1,4 @@
+pep257:
+  run: true
+  disable:
+    - D205

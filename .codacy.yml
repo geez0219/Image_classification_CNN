@@ -1,0 +1,4 @@
+engines:
+  duplication:
+    exclude_paths:
+      - tiny_imageNet/**
