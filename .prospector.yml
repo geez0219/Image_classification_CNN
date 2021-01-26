@@ -18,7 +18,7 @@ mypy:
   run: false
 
 pep257:
-  run: true
+  run: false
   # see http://pep257.readthedocs.io/en/latest/error_codes.html
   disable:
       - D200
